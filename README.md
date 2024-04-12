@@ -30,4 +30,4 @@
                     '!9899fT|!^"'
 ```
 
-hciXR is in the beginning stages. The aim of this project is to provide a flexible, feature-rich, yet simple framework for developing extended reality (XR) web apps for use in human-computer interaction (hci) visualizations.
+hciXR is in the beginning stages. The aim of this project is to provide a flexible, feature-rich, yet simple library for developing extended reality (XR) web apps for use in human-computer interaction (hci) visualizations.
